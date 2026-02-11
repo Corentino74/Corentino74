@@ -11,9 +11,9 @@
  <!-- Contacts -->
  📫 Mon mail : **corentinchitwood@gmail.com**
  
- 👨‍💻 Mon <a href="https://corentino74.github.io/Portfolio/](https://corentino74.github.io/Portfolio/"> Portfolio</a> !! EN CONSTRUCTION !!
+ 👨‍💻 Mon <a href="https://corentino74.github.io/Portfolio/fr/"> Portfolio</a> !! EN CONSTRUCTION !!
 
- 📄 Mon <a href="https://corentino74.github.io/Portfolio/Corentin%20Chitwood%20CV%20-%20Fran%C3%A7ais.pdf">CV en fraçais</a> et <a href="https://corentino74.github.io/Portfolio/Corentin%20Chitwood%20CV%20-%20English.pdf"> en Anglais</a> !
+ 📄 Mon <a href="https://corentino74.github.io/Portfolio/Corentin%20Chitwood%20CV%20-%20Fran%C3%A7ais.pdf">CV en français</a> et <a href="https://corentino74.github.io/Portfolio/Corentin%20Chitwood%20CV%20-%20English.pdf"> en Anglais</a> !
 
 <a href="https://github.com/Corentino74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Corentino74" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/corentinchitwood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="corentinchitwood" height="30" width="40" /></a>
