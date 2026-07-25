@@ -31,8 +31,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
 
   
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
